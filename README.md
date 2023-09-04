@@ -1,7 +1,4 @@
 # Aprendizado por Projeto Integrado (API) - Template
-
-Template para os projetos do curso de graduação em Gestão da Produção Industrial, ensinando na utilização do repositório digital "GitHub". 
-
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
@@ -18,18 +15,16 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+Neste semestre estamos prestando uma consultoria para uma empresa que está em transição de mercado, no ramo alimenticio.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 30/08/2023 | concluido| [Ver Relatório]() | 
-|01 | 13/09/2023 | em progresso | [Ver Relatório]() | 
-|02|  11/10/2023| a fazer |[Ver Relatório]() | 
+|01 | 27/09/2023 | em progresso | [Ver Relatório]() | 
+|02|  18/10/2023| a fazer |[Ver Relatório]() | 
 |03| 08/11/2023 | a fazer|[Ver Relatório]() | 
-|04| 06/12/2023 |a fazer |[Ver Relatório]() |
-|Feira de Soluções| 12/12/2023 |a fazer |[Ver Relatório]() | 
+|04| 29/11/2023 |a fazer |[Ver Relatório]() |
+|Feira de Soluções| 12/11/2023 |a fazer |[Ver Relatório]() | 
 
 # Micro Certificações
 <p align="center">
