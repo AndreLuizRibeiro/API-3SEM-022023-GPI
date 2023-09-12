@@ -1,14 +1,8 @@
 
-Pesquisa de mercado, para vermos como será a concorrência e quais táticas devemos tomar para que a mudança seja bem sucedida. 
+[Pesquisa de mercado, para vermos como será a concorrência e quais táticas devemos tomar para que a mudança seja bem sucedida.
+|Juntamente com a pesquisa iremos realizar uma busca para identificar quais os pratos que não poderão faltar na empresa, assim será possível montar um menu adequado para o novo empreendimento.] Sprint 2
 
-Juntamente com a pesquisa iremos realizar uma busca para identificar quais os pratos que não poderão faltar na empresa, assim será possível montar um menu adequado para o novo empreendimento. 
+[Procurar um novo imóvel que atenda as necessidades da empresa, para assim podermos criar o novo layout da empresa, que siga as novas tendências e necessidades dos clientes.|Sugerir a criação de um novo canal de divulgação na plataforma YouTube, tanto para ajudar no marketing como nas vendas dos produtos.]Sprint 3
 
-Sugerir a criação de um livro de receitas para facilitar a produção, organização e autonomia da cozinha, através de aplicativos de fala para texto. Assim será possível a delegação de tarefas para outros funcionários. 
 
-Procurar um novo imóvel que atenda as necessidades da empresa, para assim podermos criar o novo layout da empresa, que siga as novas tendências e necessidades dos clientes. 
-
-Apresentar novos fornecedores para ajudar na diversificação e qualidade dos produtos oferecidos, como também os insumos necessários para o consumo e embalagem dos produtos. 
-
-Sugerir a criação de um novo canal de divulgação na plataforma YouTube, tanto para ajudar no marketing como nas vendas dos produtos. 
-
-Pesquisar novas parcerias, tanto de empresas físicas como digitais, para a realização de deliverys na empresa, para que ela consiga atender um número Maior de clientes.
+[Apresentar novos fornecedores para ajudar na diversificação e qualidade dos produtos oferecidos, como também os insumos necessários para o consumo e embalagem dos produtos.|Pesquisar novas parcerias, tanto de empresas físicas como digitais, para a realização de deliverys na empresa, para que ela consiga atender um número Maior de clientes.] Sprint 4
