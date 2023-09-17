@@ -42,9 +42,7 @@ Realizar um planejamento estratégico para a reestruturação de um cafe colonia
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-<p align="center">
- <img src="" width="100%"/>
-</p>
+[![SPRINT 1](https://img.youtube.com/vi/_BvQd7djz-4/0.jpg)](https://youtu.be/_BvQd7djz-4)
 
 ## Sprint 2
 <p align="center">
