@@ -33,11 +33,11 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 <p align="center">
- <img src="" width="100%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/imagem/integrantes/Slide2.PNG" width="80%"/>
 </p>
 
 # Objetivo do Projeto
-Realizar um planejamento estrategico para a reestruturação de um cafe colonial, que deseja diminuir suas operações e se transformar em um emporio, trabalhando de maneira eficas e com mais eficiencia visando as necessidades dos clientes que esse nicho de mercado tras.
+Realizar um planejamento estratégico para a reestruturação de um cafe colonial, que deseja diminuir suas operações e se transformar em um emporio, trabalhando de maneira eficaZ e com mais eficiencia visando as necessidades dos clientes que esse nicho de mercado tras.
 
 # Funcionalidades e Demonstrações das Sprints
 
