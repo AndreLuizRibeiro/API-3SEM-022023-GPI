@@ -15,7 +15,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
 
 # Projeto (API) 
-Neste semestre estamos prestando uma consultoria para uma empresa que está em transição de mercado, no ramo alimenticio.
+Neste semestre estamos prestando uma consultoria para uma empresa que está em transição de mercado, no ramo alimentício.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
@@ -37,7 +37,7 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
-Realizar um planejamento estratégico para a reestruturação de um cafe colonial, que deseja diminuir suas operações e se transformar em um emporio, trabalhando de maneira eficaZ e com mais eficiencia visando as necessidades dos clientes que esse nicho de mercado tras.
+Realizar um planejamento estratégico para a reestruturação de um café colonial, que deseja diminuir suas operações e se transformar em um empório, trabalhando de maneira eficaz e com mais eficiência visando as necessidades dos clientes que esse nicho de mercado trás
 
 # Funcionalidades e Demonstrações das Sprints
 
