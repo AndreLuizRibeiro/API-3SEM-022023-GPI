@@ -79,7 +79,7 @@ Realizar um planejamento estratégico para a reestruturação de um café coloni
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/4)
+#### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/10)
 
 
 ## Backlog do produto
