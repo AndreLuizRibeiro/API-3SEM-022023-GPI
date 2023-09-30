@@ -19,9 +19,9 @@ Neste semestre estamos prestando uma consultoria para uma empresa que está em t
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 30/08/2023 | concluido| [Ver Relatório]() | 
-|01 | 27/09/2023 | em progresso | [Ver Relatório]() | 
-|02|  18/10/2023| a fazer |[Ver Relatório]() | 
+|Kick Off | 30/08/2023 | concluído| [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/Formaliza%C3%A7%C3%A3oEquipe%20GPI.doc) | 
+|01 | 27/09/2023 | concluído | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/conteudo%20da%20sprint.txt) | 
+|02|  18/10/2023| em progresso |[Ver Relatório]() | 
 |03| 08/11/2023 | a fazer|[Ver Relatório]() | 
 |04| 29/11/2023 |a fazer |[Ver Relatório]() |
 |Feira de Soluções| 12/11/2023 |a fazer |[Ver Relatório]() | 
