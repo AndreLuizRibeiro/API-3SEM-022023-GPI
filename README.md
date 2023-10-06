@@ -42,11 +42,11 @@ Realizar um planejamento estratégico para a reestruturação de um café coloni
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-[![SPRINT 1](https://img.youtube.com/vi/_BvQd7djz-4/0.jpg)](https://youtu.be/_BvQd7djz-4)
 
+[![SPRINT 1](https://img.youtube.com/vi/_BvQd7djz-4/0.jpg)](https://youtu.be/_BvQd7djz-4)
 ## Sprint 2
-<p align="center">
- <img src="" width="100%"/>
+<p width="100%">
+ 
 </p>
 
 ## Sprint 3
