@@ -44,10 +44,9 @@ Realizar um planejamento estratégico para a reestruturação de um café coloni
 ## Sprint 1
 
 [![SPRINT 1](https://img.youtube.com/vi/_BvQd7djz-4/0.jpg)](https://youtu.be/_BvQd7djz-4)
+
 ## Sprint 2
-<p width="100%">
- 
-</p>
+[![SPRINT 1](https://img.youtube.com/vi/9wDlMJ8sRnY/0.jpg)](https://youtu.be/9wDlMJ8sRnY)
 
 ## Sprint 3
 <p align="center">
@@ -90,10 +89,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 </p>
 
 ## Burndown
->Colocar aqui Burndown do projeto
-
 <p align="center">
- <img src="" width="100%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/imagem/BURNDOWN%201.gif" width="80%"/>
 </p>
 
 ## Sprint 1 - Concepção
