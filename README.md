@@ -22,13 +22,12 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 30/08/2023 | concluído| [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/Formaliza%C3%A7%C3%A3oEquipe%20GPI.doc) | 
 |01 | 27/09/2023 | concluído | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/conteudo%20da%20sprint.txt) | 
 |02|  18/10/2023| concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%202/documento/power%20point%202.pptx) | 
-|03| 08/11/2023 | em progresso |[Ver Relatório]() | 
-|04| 29/11/2023 |a fazer |[Ver Relatório]() |
+|03| 08/11/2023 | concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%203/documento/sprint3.pptx) | 
 |Feira de Soluções| 12/11/2023 |a fazer |[Ver Relatório]() | 
 
 # Micro Certificações
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-GREEN" width="30%"/>
 </p>
 
 # Equipe
@@ -49,19 +48,10 @@ Realizar um planejamento estratégico para a reestruturação de um café coloni
 [![SPRINT 1](https://img.youtube.com/vi/9wDlMJ8sRnY/0.jpg)](https://youtu.be/9wDlMJ8sRnY)
 
 ## Sprint 3
-<p align="center">
- <img src="" width="100%"/>
-</p>
-
-## Sprint 4
-<p align="center">
- <img src="" width="100%"/>
-</p>
+[![SPRINT 1](https://img.youtube.com/vi/vcQP3ZAqZvY/0.jpg)](https://youtu.be/vcQP3ZAqZvY)
 
 ## Apresentação final (se necessario)
-<p align="center">
- <img src="" width="100%"/>
-</p>
+
 
 ## Tecnologias Utilizadas
 ### Produto 
@@ -76,7 +66,7 @@ Realizar um planejamento estratégico para a reestruturação de um café coloni
 # Cronograma das Sprints
 
 ## Cronograma
-Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints[(clique aqui)](https://github.com/users/AndreLuizRibeiro/projects/10)
 
