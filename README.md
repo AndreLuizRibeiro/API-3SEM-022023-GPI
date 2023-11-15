@@ -23,7 +23,7 @@ Sprint | Previsão | Status| Histórico|
 |01 | 27/09/2023 | concluído | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/conteudo%20da%20sprint.txt) | 
 |02|  25/10/2023| concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%202/documento/power%20point%202.pptx) | 
 |03| 29/11/2023 | concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%203/documento/sprint3.pptx) | 
-|04| 06/12/2023 | cancelada |[Ver Relatório]() | 
+|04| 06/12/2023 | cancelada |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%204/documento/C%C3%B3pia%20de%20A.pptx) | 
 |Feira de Soluções| 12/11/2023 |a fazer |[Ver Relatório]() | 
 
 # Micro Certificações
@@ -37,12 +37,11 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
-Realizar um planejamento estratégico para a reestruturação de um café colonial, que deseja diminuir suas operações e se transformar em um empório, trabalhando de maneira eficaz e com mais eficiência visando as necessidades dos clientes que esse nicho de mercado trás
+Realizar um planejamento estratégico para a reestruturação de um café colonial, que deseja diminuir suas operações e se transformar em um empório, trabalhando de maneira eficaz e com mais eficiência visando as necessidades dos clientes que esse nicho de mercado tráz
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-
 [![SPRINT 1](https://img.youtube.com/vi/_BvQd7djz-4/0.jpg)](https://youtu.be/_BvQd7djz-4)
 
 ## Sprint 2
@@ -56,13 +55,28 @@ Realizar um planejamento estratégico para a reestruturação de um café coloni
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
+- Sprint 1
+  - Estratégias Propostas
+- Sprint 2
+  - Pesquisa de Mercado
+- Sprint 3
+  - Novo Layout e Insights
+- Sprint 4(Cancelada)
+  - Delivery e Fornecedores
 
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
+- Google Maps
+- Avaliações da Web
+- PowerPoint
+- Canva
+- Mooble Mobly
+- Microsoft Teams
+- Git Projects
+- Scrum
+- Brainstorm
   
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+Encorajamos a busca por soluções criativas e inovadoras para os desafios, aproveitando as oportunidades digitais. Desenvolvendo tambem a capacidade de ser ágil e flexível, respondendo rapidamente às mudanças e oportunidades apresentadas.
 
 # Cronograma das Sprints
 
@@ -73,15 +87,13 @@ Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto
 
 
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
-
 <p align="center">
- <img src="" width="100%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%203/imagem/backlog.gif" width="80%"/>
 </p>
 
 ## Burndown
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/imagem/BURNDOWN%201.gif" width="80%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%203/imagem/burndown.gif" width="80%"/>
 </p>
 
 ## Sprint 1 
