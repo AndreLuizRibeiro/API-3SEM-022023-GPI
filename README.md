@@ -22,9 +22,9 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 30/08/2023 | concluído| [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/Formaliza%C3%A7%C3%A3oEquipe%20GPI.doc) | 
 |01 | 27/09/2023 | concluído | [Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%201/documento/conteudo%20da%20sprint.txt) | 
 |02|  25/10/2023| concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%202/documento/power%20point%202.pptx) | 
-|03| 29/11/2023 | concluido |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%203/documento/sprint3.pptx) | 
+|03| 29/11/2023 | concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%203/documento/sprint3.pptx) | 
 |04| 06/12/2023 | cancelada |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI/blob/main/Sprint%204/documento/C%C3%B3pia%20de%20A.pptx) | 
-|Feira de Soluções| 12/11/2023 |a fazer |[Ver Relatório]() | 
+|Feira de Soluções| 12/11/2023 |concluído |[Ver Relatório](https://github.com/AndreLuizRibeiro/API-3SEM-022023-GPI) | 
 
 # Micro Certificações
 <p align="center">
@@ -49,9 +49,6 @@ Realizar um planejamento estratégico para a reestruturação de um café coloni
 
 ## Sprint 3
 [![SPRINT 1](https://img.youtube.com/vi/vcQP3ZAqZvY/0.jpg)](https://youtu.be/vcQP3ZAqZvY)
-
-## Apresentação final (se necessario)
-
 
 ## Tecnologias Utilizadas
 ### Produto 
@@ -97,30 +94,49 @@ Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto
 </p>
 
 ## Sprint 1 
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+- [x] Entendimento das expectativas do cliente
+- [x] BrainStorm
+- [x] Definição da abordagem
+- [x] Preparação das ferramentas
 
 ## Sprint 2 
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+- [x] Pesquisa de mercado
+- [x] Registro das informações da pesquisa
+- [x] Análise dos dados registrados
+- [x] Criação de táticas estrattégicas para a empresa
+- [x] Planejamento para proximo passo
       
 ## Sprint 3 
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+- [x] Análise do layout atual
+- [x] Disposição do ambiente
+- [x] Esboço do layout
+- [x] Layout Oficial
+- [x] Pesquisa por novo imóvel
+- [x] Imoveis selecionados
+- [x] Planejamento para proximo passo
 
+## Sprint 4(Cancelada) 
+- [ ] Pesquisa por novos fornecedores
+- [ ] Contactar fornecedores
+- [ ] Registrar fornecedores
+- [ ] Pesquisa por aplicativos e empresas de delivery
+- [ ] Análise da viabilidade dos meios de entrega encontrados
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
-
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Excel | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Scrum | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Power Point | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Mooble Mobly | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Canva | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Brainstorm | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
 </details>
 
@@ -130,12 +146,12 @@ Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Pontualidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 
 </details>
 
